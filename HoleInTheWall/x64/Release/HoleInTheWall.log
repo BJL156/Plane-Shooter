@@ -1,0 +1,23 @@
+﻿  Main.cpp
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Obstacle.h(28,20): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Obstacle.h(54,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Bullet.h(11,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Bullet.h(11,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Bullet.h(16,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Bullet.h(17,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Plane.h(16,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Plane.h(16,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Plane.h(35,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Plane.h(35,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\dependencies\GLAD\include\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(20,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(20,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(29,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(30,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 518 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HoleInTheWall.vcxproj -> C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\x64\Release\HoleInTheWall.exe
