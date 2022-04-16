@@ -1,6 +1,12 @@
 # Plane Shooter
 Made in one day from scratch. My first attempt on a game with OpenGL.
 
+So in one day I what I had to make was the following:
+- Texture Rendering
+- `Rect` class
+- Input
+- Sound
+
 **This project can also be found on Itch.io: https://bjl156.itch.io/plane-shooter**
 
 ![iconbig](https://user-images.githubusercontent.com/97370242/163685372-c0325a91-f4be-4c13-9564-90b4234574eb.png)
