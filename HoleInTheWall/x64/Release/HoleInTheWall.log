@@ -15,6 +15,7 @@ C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main
 C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(20,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(29,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(30,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bjl15\C C++\Libraries\OpenGL\Games\HoleInTheWall\HoleInTheWall\src\Main.cpp(41,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Generating code
   1 of 518 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation

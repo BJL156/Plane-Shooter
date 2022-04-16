@@ -89,7 +89,6 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="res\audio\LupusNocte.mp3" />
     <Media Include="res\audio\death.mp3" />
     <Media Include="res\audio\shoot.mp3" />
   </ItemGroup>

@@ -32,6 +32,14 @@ int main()
 
 		window.Update();
 
+		if (Input::IsKeyDown(&window, GAME_KEY_R))
+		{
+			plane.plane->x = 0.0f;
+			plane.plane->y = 0.0f;
+
+			obstacle.RandomHeight();
+			obstacle.bottom->x = window.GetWidth();
+		}
 
 		if (plane.plane->IsColliding((*obstacle.top)) || plane.plane->IsColliding((*obstacle.bottom)) || plane.plane->IsColliding((*obstacle.box)))
 		{
@@ -40,6 +48,12 @@ int main()
 			if (!playedDeathSound)
 				soundEngine.Play("res/audio/death.mp3", false);
 			playedDeathSound = true;
+		}
+		else
+		{
+			plane.speed = 1000.0f;
+			obstacle.speed = 1000.0f;
+			playedDeathSound = false;
 		}
 
 		for (int i = 0; i < plane.bullets.size(); i++)
