@@ -1,11 +1,6 @@
 # Plane Shooter
 Made in one day from scratch. My first attempt on a game with OpenGL.
-
-So in one day I what I had to make was the following:
-- Texture Rendering
-- `Rect` class
-- Input
-- Sound
+**It is important to note that some crashing may occur becuase of Irrklang. I may look into it more.**
 
 **This project can also be found on Itch.io where it can also be downloaded for completely free: https://bjl156.itch.io/plane-shooter**
 
@@ -18,6 +13,4 @@ The game was inspired by the second phase in a boss fight in *Cuphead* called *D
 (w, a, s, d) - Movement
 (Left Mouse) - Shoot
 
-(r) - Reset
-
-![image](https://user-images.githubusercontent.com/97370242/163684484-4cac0f6c-29da-4bb3-8d5d-d3cd8bcadb0f.png)
+(r) - Reset Game
