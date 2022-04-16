@@ -1,5 +1,6 @@
 # Plane Shooter
 Made in one day from scratch. My first attempt on a game with OpenGL.
+
 **It is also important to note that some crashing may occur becuase of Irrklang. I may look into it more although I am not sure if I will simply becauase this was a one off thing.**
 
 **This project can also be found on Itch.io where it can also be downloaded for completely free: https://bjl156.itch.io/plane-shooter**
